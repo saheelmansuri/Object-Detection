@@ -1,10 +1,6 @@
 
 ## Analysis of images of retail shelf displays and detection the object on shelf
 
-
-
-https://user-images.githubusercontent.com/87168504/184640588-4cd36942-c9bc-4f41-bf53-f64e9d885e57.mp4
-
 ## Dataset
 https://www.kaggle.com/datasets/manikchitralwar/webmarket-dataset
 
